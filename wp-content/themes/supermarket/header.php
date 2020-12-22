@@ -39,7 +39,7 @@ wp_head(); ?>
 		<?php the_custom_header_markup(); ?>
 		<!-- Top Header============================================= -->
 		<div class="top-header">
-			sdsdsdsd
+			
 			<?php 
 			if ($supermarket_settings['supermarket_disable_top_bar'] ==0 ){
 
