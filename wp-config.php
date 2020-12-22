@@ -15,7 +15,7 @@
  *
  * @link https://wordpress.org/support/article/editing-wp-config-php/
  * 
- * This is a demo and and can be removed easily.
+ * This is a demo and and can be removed easily. We are changing and testing files constantly.
  *
  * @package WordPress
  */
