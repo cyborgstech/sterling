@@ -14,6 +14,8 @@
  * * ABSPATH
  *
  * @link https://wordpress.org/support/article/editing-wp-config-php/
+ * 
+ * This is a demo and and can be removed easily.
  *
  * @package WordPress
  */
